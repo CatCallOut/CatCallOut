@@ -4,13 +4,13 @@
 
 /* Links */
 @font-face {
-    font-family: 'Moon Flower Bold';
-    src: url('moon_flower_bold.eot');
-    src: url('moon_flower_bold.eot?#iefix') format('embedded-opentype'),
-         url('moon_flower_bold.woff2') format('woff2'),
-         url('moon_flower_bold.woff') format('woff'),
-         url('moon_flower_bold.ttf') format('truetype'),
-         url('moon_flower_bold.svg#moon_flower_boldregular') format('svg');
+    font-family: 'moon_flower_boldregular';
+    src: url('moon_flower_bold-webfont.eot');
+    src: url('moon_flower_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('moon_flower_bold-webfont.woff2') format('woff2'),
+         url('moon_flower_bold-webfont.woff') format('woff'),
+         url('moon_flower_bold-webfont.ttf') format('truetype'),
+         url('moon_flower_bold-webfont.svg#moon_flower_boldregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -20,7 +20,7 @@ a:focus,
 a{
     color:black;
     display: block;
-    font-family:'Moon Flower Bold';
+    font-family:'moon_flower_boldregular';
     text-decoration:none;
     font-size:20px;
 }
@@ -34,23 +34,23 @@ h3{
     color:#b87e7e;
     font-size:40px;
     text-decoration: none;
-    font-family:'Moon Flower Bold';
+    font-family:'moon_flower_boldregular';
 }
 h6{
     color:white;
     text-decoration: none;
-    font-family:'Moon Flower Bold';
+    font-family:'moon_flower_boldregular';
 }
 h1{
     color:#b87e7e;
     font-size:90px;
     text-decoration: none;
-    font-family:'Moon Flower Bold';
+    font-family:'moon_flower_boldregular';
 }
 p{
     font-size: 40px;
     text-decoration: none;
-    font-family:'Moon Flower Bold';
+    font-family:'moon_flower_boldregular';
 }
 
 #MapAPI
