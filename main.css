@@ -4,7 +4,7 @@
 
 /* Links */
 @font-face {
-    font-family: 'moon_flower_boldregular';
+    font-family: 'moon_flower_boldregular', helvetica;
     src: url('moon_flower_bold-webfont.eot');
     src: url('moon_flower_bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('moon_flower_bold-webfont.woff2') format('woff2'),
