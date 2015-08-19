@@ -20,7 +20,7 @@ a:focus,
 a{
     color:black;
     display: block;
-    font-family:"Moon Flower Bold";
+    font-family:"moon_flower_boldregular";
     text-decoration:none;
     font-size:20px;
 }
@@ -34,23 +34,23 @@ h3{
     color:#b87e7e;
     font-size:40px;
     text-decoration: none;
-    font-family:"Moon Flower Bold";
+    font-family:"moon_flower_boldregular";
 }
 h6{
     color:white;
     text-decoration: none;
-    font-family:"Moon Flower Bold";
+    font-family:"moon_flower_boldregular";
 }
 h1{
     color:#b87e7e;
     font-size:90px;
     text-decoration: none;
-    font-family:"Moon Flower Bold";
+    font-family:"moon_flower_boldregular";
 }
 p{
     font-size: 40px;
     text-decoration: none;
-    font-family:"Moon Flower Bold";
+    font-family:"moon_flower_boldregular";
 }
 
 #MapAPI
