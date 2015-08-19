@@ -3,6 +3,18 @@
  */
 
 /* Links */
+@font-face {
+    font-family: 'moon_flower_boldregular';
+    src: url('moon_flower_bold.eot');
+    src: url('moon_flower_bold.eot?#iefix') format('embedded-opentype'),
+         url('moon_flower_bold.woff2') format('woff2'),
+         url('moon_flower_bold.woff') format('woff'),
+         url('moon_flower_bold.ttf') format('truetype'),
+         url('moon_flower_bold.svg#moon_flower_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
 a,
 a:focus,
 a{
